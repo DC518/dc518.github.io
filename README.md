@@ -1,8 +1,8 @@
-# dc518.github.io
+#
 DEFCON Group DCG518
 # DCG518 DEFCON Group <!-- omit in toc -->
 
-> Add something cool here.
+![External Image](https://github.com/DC518/dc518.github.io/blob/main/Happy-pirate-fine.png)
 
 
 
