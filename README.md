@@ -1,6 +1,6 @@
 #
 DEFCON Group DCG518
-# DCG518 DEFCON Group <!-- omit in toc -->
+# DEFCON Group DCG518 <!-- omit in toc -->
 
 ![External Image](https://github.com/DC518/dc518.github.io/blob/main/Happy-pirate-fine.png)
 
