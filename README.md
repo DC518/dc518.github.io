@@ -1,6 +1,6 @@
 # DCG518 DEFCON Group <!-- omit in toc -->
 
-> Add something cool here.
+![DCG518](main/Happy-pirate-fine.png)
 
 
 
